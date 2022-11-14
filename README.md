@@ -14,9 +14,9 @@ PyBer is a ride-sharing app company valued at $2.3 billion. Data used is from Ja
 
 ## Results
 
-![Pyber_sum_DF.png](Analysis/Pyber_sum_DF.png)
+![Pyber_sum_DF.png](analysis/Pyber_sum_DF.png)
 
-![Pyber_fare_summary.png](Analysis/Pyber_fare_summary.png)
+![Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
 
 ## Summary
 Three business recommendations to the CEO for addressing disparities among the city types are as follows:
